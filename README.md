@@ -89,7 +89,71 @@ Enquiry page: where you fill out the form.
 Contact page: company contact details. 
 
  
+Website Project Proposal 2 
 
+ 
+
+1.Organization Overview 
+
+Name of the organization:  Community Care foundation 
+
+ 
+
+The Community Care Foundation is a non-profit company that helps people with food, clothes, and support. It started as a small volunteer group and grew into a recognized company. 
+
+This Community care foundation was created to support and make a positive impact by supporting those in need and encouraging community involvement through donations and volunteer work. 
+
+ 
+
+Mission: 
+
+To support people in need. 
+
+Vision: 
+
+ Where everyone has met their basic needs. 
+
+Website goals and objectives: 
+
+Encourage donations. 
+
+Raise awareness 
+
+Recruit volunteers 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Key Performance: 
+
+Number of visitors 
+
+Number of donations received 
+
+Sign-ups 
+
+ 
+
+ 
+
+Proposed Website features 
+
+The website will have: 
+
+Home page 
+
+About us 
+
+Programs 
+
+Donations  
+
+Contact page  
  
 
  
@@ -97,3 +161,7 @@ Contact page: company contact details.
 Design and user experience  
 
 This company website will focus on making it easy for users to find the information about our services and the company. 
+
+
+
+
